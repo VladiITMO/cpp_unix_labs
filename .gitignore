@@ -1,0 +1,26 @@
+# Папки сборки
+build/
+build_stg/
+build_prd/
+
+# Скомпилированные файлы
+*.exe
+*.o
+*.out
+*.obj
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Редакторы
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Временные файлы
+*.log
+*.tmp
