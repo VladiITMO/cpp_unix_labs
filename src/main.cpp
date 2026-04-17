@@ -27,12 +27,12 @@ int main() {
 		for (long long i = 0; i < n; i++) {
 			result = compute(2);
 		}
-	}
+	
 
 	auto end = high_resolution_clock::now(); 
 	auto duration = duration_cast<milliseconds>(end - start).count(); 
 
 	cout << "Time taken " << duration << "\n\n"; 
-
-
+}
+return 0;
 }
