@@ -21,11 +21,11 @@ int main() {
 			break;
 		}
 
-		auto start = high_recolution_clock::now(); 
+		auto start = high_resolution_clock::now(); 
 
 		double result = 0; 
 		for (long long i = 0; i < n; i++) {
-			result = compute(1);
+			result = compute(2);
 		}
 	}
 
