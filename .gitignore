@@ -24,3 +24,8 @@ __pycache__/
 # Временные файлы
 *.log
 *.tmp
+
+# Lab 02 build folders
+lab_02/build_stg/
+lab_02/build_prd/
+lab_02/__pycache__/
